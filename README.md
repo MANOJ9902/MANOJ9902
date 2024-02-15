@@ -1,4 +1,4 @@
-# Hi, I'm Pruthvi S! 👋
+# Hi, I'm Manoj Kumar R ! 👋
 
 ![Header](https://img.com/header_image.jpg)
 
