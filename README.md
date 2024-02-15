@@ -43,9 +43,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prureddy&show_icons=true&theme=dark)
+![GitHub stats](https://github.com/MANOJ9902)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prureddy)
+![GitHub Trophies](https://github.com/MANOJ9902)
 
