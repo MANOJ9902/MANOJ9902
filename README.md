@@ -1,6 +1,6 @@
 # Hi there, I'm Manoj Kumar R! 👋
 
-![Header](https://img.com/header_image.jpg)
+
 
 ## About Me
 
