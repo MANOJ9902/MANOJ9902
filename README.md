@@ -16,6 +16,9 @@
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/your_linkedin)
 [<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>](https://www.twitter.com/your_twitter)
 
+## 💻 Tech Stack
+
+
 [<img src="https://img.icons8.com/color/48/000000/python.png"/>](#) Python
 [<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>](#) TensorFlow
 [<img src="https://img.icons8.com/color/48/000000/pytorch.png"/>](#) PyTorch
@@ -36,5 +39,4 @@
 [<img src="https://img.icons8.com/color/48/000000/github.png"/>](#) GitHub
 [<img src="https://img.icons8.com/color/48/000000/heroku.png"/>](#) Heroku
 [<img src="https://img.icons8.com/color/48/000000/netlify.png"/>](#) Netlify
-
 
