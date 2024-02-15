@@ -41,11 +41,4 @@
 [<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>](#)
 [<img src="https://img.icons8.com/color/48/000000/linux.png"/>](#)
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github.com/MANOJ9902)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github.com/MANOJ9902)
 
