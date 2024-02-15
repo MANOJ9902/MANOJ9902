@@ -18,7 +18,7 @@
 
 ## 💻 Tech Stack
 
-<div style="padding: 20px; border-radius: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
 <!-- Python -->
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
@@ -121,3 +121,4 @@
 </div>
 
 </div>
+
