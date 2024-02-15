@@ -1,6 +1,6 @@
 # Hi there, I'm Manoj Kumar R! 👋
 
-![Header](https://img.com/header_image.jpg)
+
 
 ## About Me
 
@@ -19,24 +19,23 @@
 ## 💻 Tech Stack
 
 My passion for AI, Generative AI, machine learning, and web development has led me to explore a diverse range of technologies and tools. Here are some of the key technologies I work with:
-
-[<img src="https://img.icons8.com/color/48/000000/python.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/pytorch.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/keras.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/javascript.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/html-5.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/css3.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/react-native.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/firebase.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/postgresql.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/docker.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/git.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/github.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/heroku.png"/>](#)
-[<img src="https://img.icons8.com/color/48/000000/netlify.png"/>](#)
+[<img src="https://img.icons8.com/color/48/000000/python.png"/>](#) Python
+[<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>](#) TensorFlow
+[<img src="https://img.icons8.com/color/48/000000/pytorch.png"/>](#) PyTorch
+[<img src="https://img.icons8.com/color/48/000000/keras.png"/>](#) Keras
+[<img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>](#) scikit-learn
+[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](#) Java
+[<img src="https://img.icons8.com/color/48/000000/javascript.png"/>](#) JavaScript
+[<img src="https://img.icons8.com/color/48/000000/html-5.png"/>](#) HTML5
+[<img src="https://img.icons8.com/color/48/000000/css3.png"/>](#) CSS3
+[<img src="https://img.icons8.com/color/48/000000/react-native.png"/>](#) React
+[<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>](#) Node.js
+[<img src="https://img.icons8.com/color/48/000000/firebase.png"/>](#) Firebase
+[<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>](#) MongoDB
+[<img src="https://img.icons8.com/color/48/000000/postgresql.png"/>](#) PostgreSQL
+[<img src="https://img.icons8.com/color/48/000000/docker.png"/>](#) Docker
+[<img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>](#) Kubernetes
+[<img src="https://img.icons8.com/color/48/000000/git.png"/>](#) Git
+[<img src="https://img.icons8.com/color/48/000000/github.png"/>](#) GitHub
+[<img src="https://img.icons8.com/color/48/000000/heroku.png"/>](#) Heroku
+[<img src="https://img.icons8.com/color/48/000000/netlify.png"/>](#) Netlify
